@@ -1,6 +1,8 @@
 mini-beast
 ==========
 
+** This project has been accepted into the Overtone Github organization. Point to https://github.com/overtone/mini-beast for new developments. **
+
 Digital clone of an analog synthesizer using Overtone and Quil
 
 <img src="https://github.com/aaron-santos/mini-beast/raw/master/doc/minibeast.png" alt="Minibeast Screenshot" />
